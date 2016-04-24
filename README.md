@@ -1,4 +1,5 @@
 # nasa-hackathon-project
+http://spaceappssf.weebly.com/hack-101.html
 
 Our solution aims to provide an education platform for anyone interested in space.
 Our interactive app has two main modules:
